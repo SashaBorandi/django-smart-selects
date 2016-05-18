@@ -103,7 +103,7 @@ class ChainedSelect(Select):
             var chainfield = "#id_%(chainfield)s";
             var url = "%(url)s";
             var id = "#%(id)s";
-            var value = %(value)s;
+            var value = "%(value)s";
             var auto_choose = %(auto_choose)s;
             var empty_label = "%(empty_label)s";
 
